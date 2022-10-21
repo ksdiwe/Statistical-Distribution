@@ -1,1 +1,1 @@
-# Statistical-Distribution
+# Statistical Distribution
